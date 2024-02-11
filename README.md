@@ -13,7 +13,7 @@ This repository contains a series of Artificial Intelligence (AI) assignments an
    - File: [AI assignment 2 Grad-CAM.pdf](AI%20assignment%202%20Grad-CAM.pdf)
    - Description: The second assignment explores Grad-CAM (Gradient-weighted Class Activation Mapping) in the context of neural networks.
      
-<a href="https://goopics.net/i/nyxkh0"><img src="https://i.goopics.net/nyxkh0.png" alt="Image"></a>
+<a href="https://goopics.net/i/nyxkh0"><img src="https://i.ibb.co/d6m3N3c/Screenshot-2024-02-11-174108.png" alt="GradCam"></a>
 
 3. **AI Assignment 3 - VGG16 Prediction (Not Fixed)**
    - File: [AI assignment 3 VGG16 PREDICTION (NOT FIXED).pdf](AI%20assignment%203%20VGG16%20PREDICTION%20(NOT%20FIXED).pdf)
@@ -29,9 +29,9 @@ This repository contains a series of Artificial Intelligence (AI) assignments an
   - File: [Project final Anomaly detection database.pdf](Project%20final%20Anomaly%20detection%20database.pdf)
   - Description: The final project focuses on the analysis of a database for anomaly detection, particularly using the Isolation Forest algorithm. This project likely involves the application of AI techniques to identify anomalies in banking data.
  
-    <a href="https://goopics.net/i/3gsemu"><img src="https://i.goopics.net/3gsemu.png" alt="Image"></a>
+    <a href="https://goopics.net/i/3gsemu"><img src="https://i.ibb.co/LR6VZwh/Screenshot-2024-02-11-174301.png" alt="AnomalyDetect"></a>
 
 ### Notes:
 
-- All assignments and the project were initially committed last year.
+- All assignments and the project were initially committed in 2022.
 - Ensure that you have the necessary dependencies and instructions mentioned in each assignment's PDF file before running the code.
